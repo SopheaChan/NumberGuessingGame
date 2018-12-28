@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Game</string>
+    <string name="choose_your_lucky_number_and_win">Choose Your Lucky Number and Win!</string>
+    <string name="test_your_luck">Test Your Luck!</string>
+    <string name="play">Play</string>
+    <string name="bet_amount">Bet amount:</string>
+    <string name="_100">$100</string>
+    <string name="your_cash">Your cash:</string>
+    <string name="input_your_lucky_number_here">Input your lucky number here...</string>
+    <string name="result">Result:</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="_20">+$20</string>
+</resources>
